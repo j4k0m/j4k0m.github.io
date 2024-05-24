@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+When I was 17, I dropped out of high school to pursue a career in cybersecurity. I started working as a CTF (Capture The Flag) challenge developer while participating in CTF competitions with friends and doing bug bounty hunting on the side.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Later, I joined 1337 as a computer science student. During this time, I also worked as a Python vulnerability assessor for a cybersecurity startup. Eventually, I left 1337 and took on a role as an offensive cybersecurity consultant.
 
 ### Contact me
 
