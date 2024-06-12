@@ -5,7 +5,7 @@ title: Breaking a Banking Solution Hosted on a JBoss Web Server
 
 I was tasked with testing a banking application. Despite numerous prior penetration tests, I was surprised by the extent of critical vulnerabilities and the insecure implementation of authorization. The mission extended over four days, yet I breached the server within the first few hours. I proceeded with the pentest in white-box mode.
 
-This series won't delve deeply into technical details. Instead, it aims to narrate stories and highlight intriguing discoveries made during my missions. You may glean a few insights along the way.
+This blog won't delve deeply into technical details. Instead, it aims to narrate stories and highlight intriguing discoveries made during my missions. You may glean a few insights along the way.
 
 ## Good functionality, bad implementation
 
