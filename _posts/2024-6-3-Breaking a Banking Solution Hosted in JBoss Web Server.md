@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pentester Diaries EP 1 - Breaking a Banking Solution Hosted on a JBoss Web Server
+title: Breaking a Banking Solution Hosted on a JBoss Web Server
 ---
 
 I was tasked with testing a banking application. Despite numerous prior penetration tests, I was surprised by the extent of critical vulnerabilities and the insecure implementation of authorization. The mission extended over four days, yet I breached the server within the first few hours. I proceeded with the pentest in white-box mode.
