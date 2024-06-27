@@ -50,7 +50,7 @@ In the file `glpi/src/CommonDBTM.php`, the function `getFromDBByCrit()` construc
 The execution occurs on line 385, with the result being stored in the `iter` variable. The complete SQL query can be observed in the "Local" variables section.
 
 ```sql
-"SELECT `id` FROM `glpi_users` WHERE `name` = 'test' AND `authtype` = '3' AND `auths_id` = '1'"
+SELECT `id` FROM `glpi_users` WHERE `name` = 'test' AND `authtype` = '3' AND `auths_id` = '1'
 ```
 
 ![Pasted image 20240626222053 - Copy](https://github.com/j4k0m/j4k0m.github.io/assets/48088579/531dd21c-8539-40cb-8e1b-763619c36020)
