@@ -3,8 +3,6 @@ layout: post
 title: Setting Up Your PHP Debugging Environment for Hacking
 ---
 
-# Setting Up Your PHP Debugging Environment for Hacking
-
 Due to popular demand, I've decided to create a blog post on how I set up my PHP debugging environment for hacking PHP applications.
 
 In this guide, I will walk you through my setup, which includes using an Ubuntu VPS for the web server and Xdebug. Additionally, I use VSCode as my debugging tool and Burp Suite for testing. Let's get started!
